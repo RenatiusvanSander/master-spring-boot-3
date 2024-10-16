@@ -1,4 +1,4 @@
-package edu.remad.master_spring_boot_3;
+package edu.remad.masterspringboot3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
